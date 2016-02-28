@@ -11,5 +11,5 @@ ina-web for know availability of light in an area
 
 ###Contributors
 
-See [list of contributors](https://github.com/BeninDevelopers/ina-mobile/graphs/contributors) 
+See [list of contributors](https://github.com/BeninDevelopers/ina-web/graphs/contributors) 
 
