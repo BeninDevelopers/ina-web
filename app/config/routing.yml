@@ -1,6 +1,6 @@
 web_service_moteur:
     resource: "@WebServiceMoteurBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /service
 
 app:
     resource: "@AppBundle/Controller/"

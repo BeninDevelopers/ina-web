@@ -1,3 +1,4 @@
-web_service_moteur_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: WebServiceMoteurBundle:Default:index }
+
+web_service_moteur_register:
+    path:     /register
+    defaults: { _controller: WebServiceMoteurBundle:WebService:register }
